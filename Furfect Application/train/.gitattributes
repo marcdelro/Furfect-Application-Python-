@@ -1,0 +1,5 @@
+french[[:space:]]bulldog/*.jpg filter=lfs diff=lfs merge=lfs -text
+german[[:space:]]shepherd/*.jpg filter=lfs diff=lfs merge=lfs -text
+golden[[:space:]]retriever/*.jpg filter=lfs diff=lfs merge=lfs -text
+poodle/*.jpg filter=lfs diff=lfs merge=lfs -text
+yorkshire[[:space:]]terrier/*.jpg filter=lfs diff=lfs merge=lfs -text
